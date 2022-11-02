@@ -12,15 +12,11 @@ Given a linked list, find the middle of the linked list. For example, if the giv
 
 ### 1. Home Page
 
+![image](https://user-images.githubusercontent.com/61316762/199564025-5b935c77-6c1d-438e-a6e2-5d09915f52ba.png)
 
+### 2. Input Page and Output Page
 
-### 2. Input Page
-
-
-
-### 3. Output Page
-
-
+![image](https://user-images.githubusercontent.com/61316762/199564318-6e762bcf-17ff-486f-905d-04b08533ef30.png)
 
 ## Algorithm
 
